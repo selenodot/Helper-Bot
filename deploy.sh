@@ -1,2 +1,2 @@
-sudo docker build -t helper-bot .
-sudo docker run -d helper-bot
+docker build -t helper-bot .
+docker run -d helper-bot
